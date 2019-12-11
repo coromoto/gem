@@ -27,9 +27,9 @@ RSpec.describe Gema do
 	  it "crea un objeto lista" do
 	    p = Lista.new(nil, nil)
 	  end
-	  it "esto es una prueba para travis" do
-            p = Lista.new
-	  end
+#	  it "esto es una prueba para travis" do
+#            p = Lista.new
+#	  end
 
   end
 end
